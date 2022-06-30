@@ -1,2 +1,3 @@
 beautifulsoup4
 ruamel.yaml
+iso639-lang
